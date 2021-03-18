@@ -3,7 +3,7 @@ A web application for tranliterating Arabic to Latin characters (and back) accor
 
 
 # Current Status
-- It is working.
+- It is working, but I have not verified the correctness of it with the official standards document.
 - Future changes may come.
 
 # Details of the Transliteration System
